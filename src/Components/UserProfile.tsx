@@ -45,7 +45,7 @@ const UserProfile = () => {
         <div className="home-content">
           <div className="details">
             <h3>MY PROFILE</h3>
-            <h1>ANUSUYA R</h1>
+            <h1>User Name</h1>
             <h3>
               <span className="span" ref={spanRef}></span>
             </h3>
